@@ -16,7 +16,7 @@ Map，Set，List，Queue。。。
 
 ### 框架篇
 
-SpringBoot，Spring ，SpringMVC， Mabatis。。。
+SpringBoot，Spring ，SpringMVC， Mybatis。。。
 
 ### 工具篇 
 
